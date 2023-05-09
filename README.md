@@ -1,6 +1,6 @@
 [![MasterHead](https://surfingthecode.com/img/python.gif)]
 <h1 align="center">Hi 👋, I'm Akash KR</h1>
-- 🌱 I’m currently learning **Data structure**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python**
 
