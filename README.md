@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left">
 <a href="https://www.linkedin.com/in/akash-kr-87637a245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/akash-kr-87637a245" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akash kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akash kr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akashkr05?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akash kr" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/akashkr05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="akashkr05" height="30" width="40" /></a>
 </p>
 
