@@ -19,6 +19,6 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL" width="40" height="40"/></a>
   <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="40" height="40"/></a>
    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bE1HJBoR7Vb7mJiEZI6J5A7O3uCIUtbm2W7zNE_2POzVUMgUxztr_sOnru0HB3s69no&usqp=CAU" alt="NumPy" width="40" height="40"/></a>
-   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="pandas" width="40" height="40"/></a></p>
+   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2022/01/illu_pandas-82-1024x562.png" alt="pandas" width="40" height="40"/></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkr05&show_icons=true&locale=en&layout=compact" alt="akashkr05" /></p>
