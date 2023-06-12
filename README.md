@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash KR</h1>
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, MySQL, Data Analysis**
 
 - 📫 How to reach me **kumarakash12701@gmail.com**
 
