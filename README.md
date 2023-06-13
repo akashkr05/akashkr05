@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL" width="40" height="40"/></a>
-   <br>
+<!--    <br> -->
   <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="40" height="40"/></a>
    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7bE1HJBoR7Vb7mJiEZI6J5A7O3uCIUtbm2W7zNE_2POzVUMgUxztr_sOnru0HB3s69no&usqp=CAU" alt="NumPy" width="40" height="40"/></a>
    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg" alt="matplotlib" width="40" height="40"/></a></p>
